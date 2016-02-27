@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\project\smu_assignment1_resourcemanager\smu_assignment1_resourcemanager\fileparse.h(96): warning C4715: 'FileParse::removeNode': not all control paths return a value
+c:\project\smu_assignment1_resourcemanager\smu_assignment1_resourcemanager\fileparse.h(75): warning C4715: 'FileParse::addNode': not all control paths return a value
+  SMU_assignment1_resourceManager.vcxproj -> C:\project\SMU_assignment1_resourceManager\Debug\SMU_assignment1_resourceManager.exe

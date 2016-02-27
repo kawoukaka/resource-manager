@@ -1,0 +1,7 @@
+sniper handgun
+handgun bullets
+bullets ore
+ore bomb
+bomb chips
+bomb iron
+bullets char
